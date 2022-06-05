@@ -1,4 +1,4 @@
-# Hi there, I'm Joseph muchene  👋 
+# Hi there, I'm Joseph muchene   <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35" />
 
 
 ## I'm a frontend developer!!
