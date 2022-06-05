@@ -4,6 +4,6 @@
 ## I'm a frontend developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking forward to earn my first job
-- 🥅 2022 Goals: Learn more about web3
+- 👯 I’m looking forward to collaborate with other software developers
+- 🥅 2022 Goals: Earn my first job as a software developer
 - ⚡ Fun fact: I love to play football
