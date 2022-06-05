@@ -42,5 +42,5 @@
 
 <span align="left" >
 
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseph-muchene&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseph-muchene&hide_border=true&theme=dark&background=3D3D3D&stroke=00E6FE)
 </span>
