@@ -25,3 +25,22 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
+
+
+<h2>📈 &nbsp;Some Github Stats</h2>
+<span align="left">
+
+![my GitHub Stats](https://github-readme-stats.vercel.app/api?username=joseph-muchene&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+</span>
+
+<span align="left" >
+   
+
+   ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=joseph-muchene&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&text_color=FFFFFF&locale=en&layout=compact)
+</span>
+
+
+<span align="left" >
+
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joseph-muchene&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+</span>
