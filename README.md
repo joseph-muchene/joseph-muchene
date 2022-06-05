@@ -11,6 +11,7 @@
 <h2>👨🏻‍💻 &nbsp;Things I code with</h2>
 <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Node js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-squaree&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
