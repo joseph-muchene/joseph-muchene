@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking forward to collaborate with other software developers
-- 🥅 2022 Goals: Build more software
+- 🥅 2022 Goals: Build Build Build!!
 - ⚡ Fun fact: I love to play football
 
 <h2>👨🏻‍💻 &nbsp;Things I code with</h2>
