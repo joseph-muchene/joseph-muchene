@@ -1,7 +1,7 @@
 # Hi there, I'm Joseph muchene   <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35" />
 
 
-## I'm a frontend developer!!
+## I'm a fullstack developer!! 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking forward to collaborate with other software developers
