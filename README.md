@@ -3,10 +3,10 @@
 
 ## I'm a fullstack developer!! 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning mobile app development with react native 
 - 👯 I’m looking forward to collaborate with other software developers
 - 🥅 2022 Goals: Build Build Build!!
-- ⚡ Fun fact: I love to play football
+
 
 <h2>👨🏻‍💻 &nbsp;Things I code with</h2>
 <p>
