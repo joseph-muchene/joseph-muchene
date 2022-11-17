@@ -1,4 +1,4 @@
-### hey there  ![](https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042583)
+### hey there  👋
 
 <br />
 
