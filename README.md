@@ -2,7 +2,7 @@
 
 <br />
 
-hi, i'm [Joseph muchene](https://roaring-praline-58ccdc.netlify.app/), a passionate self-taught full stack web developer and a freelance software engineer from Kenya. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Joseph muchene](https://roaring-praline-58ccdc.netlify.app/), a passionate full stack web developer and Founder of Elevate web solutions. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
   
 - 💼 any freelance work? do reach, [email](mailto:ngugimuchene@gmail.com) :)
