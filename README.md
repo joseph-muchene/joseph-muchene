@@ -20,8 +20,8 @@ My name is [Joseph muchene](https://roaring-praline-58ccdc.netlify.app/) and I a
 <!--START_SECTION:waka-->
 
 ```text
-Javascript   5 hrs 25 mins   ██████████████████████▒░░   89.41 %
-Typescript   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Typescript   5 hrs 25 mins   ██████████████████████▒░░   89.41 %
+Javascript   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
